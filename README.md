@@ -15,5 +15,5 @@ Get practical skills on creation, configuration and run dual core project using 
     - STM32WL Cube library (in version at least 1.0.0) → to be installed from STM32CubeIDE (help → Manage Embedded Software Packages → STM32Cube MCU Packages)
 
 ## MOOC link 
-https://www.youtube.com/playlist?list=PLnMKNibPkDnGy3R2ywQH2hmX83r34xhAE
+https://www.youtube.com/playlist?list=PLnMKNibPkDnGYrt-M1kSYpmJAnNoz1CHq
 
